@@ -1,0 +1,1 @@
+<div class="mapouter mt-5"><iframe id="gmap_canvas" src="https://maps.google.com/maps?q=cavite%20state%20university%20-%20imus&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div>
